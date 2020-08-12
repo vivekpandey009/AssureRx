@@ -1,0 +1,49 @@
+package com.admin;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "admin")
+public class Admin{
+	@Id
+	@Column(name = "email",length=50)
+	private String email;
+
+	@Column(name = "password",length=25)
+	private String password;
+	  public Admin() 
+	  {	
+	  }
+	public Admin(String email, String password) {
+		super();
+		this.email = email;
+		this.password = password;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	@Override
+	public String toString() {
+		return "Admin [email=" + email + ", password=" + password + "]";
+	}
+
+	
+	
+	
+
+
+}
