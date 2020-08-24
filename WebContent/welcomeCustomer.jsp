@@ -335,7 +335,7 @@ color: white;
 
 <div class="left">
 
-    <img src="https://scontent.fdel28-1.fna.fbcdn.net/v/t1.0-9/116809852_301019137788925_5924721173777389708_n.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=Glo8Bw-g2ZkAX8o7f-p&_nc_ht=scontent.fdel28-1.fna&oh=ffca4c6a6bcb1be0dfd2d0f64c039c9d&oe=5F548DD3"
+    <img src="images/assurerx.jpg"
 
     alt="user" height="250" width="250">
     <br><br>

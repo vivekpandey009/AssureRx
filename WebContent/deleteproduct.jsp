@@ -189,7 +189,7 @@ i {
 	<div class="row">
 		<div class="col-md-3">
 			<div class="contact-info">
-				<img src="https://scontent.fdel28-1.fna.fbcdn.net/v/t1.0-9/116809852_301019137788925_5924721173777389708_n.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=Glo8Bw-g2ZkAX-BxaY_&_nc_ht=scontent.fdel28-1.fna&oh=c0556386efbd3f8290f9d8d5a14f785c&oe=5F548DD3" style="width: 180px; height: 120px"" alt="image"/>
+				<img src="images/assurerx.jpg" style="width: 180px; height: 120px"" alt="image"/>
 				<h2>Assure Rx</h2>
 				<h4>An e-Pharmaceutical company.</h4>
 			</div>

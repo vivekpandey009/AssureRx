@@ -162,7 +162,7 @@ i {
 
 <div class="card" >
 
-<img class="card-img-top" src="https://cdn0.iconfinder.com/data/icons/payment-vol-3/100/NETBanking__credit_debit_card_bank_transaction-512.png" alt="Card image">
+<img class="card-img-top" src="images/netbanking.jpg" alt="Card image">
 
 <div class="card-body">
 
@@ -184,7 +184,7 @@ i {
 
 <div class="card" >
 
-<img class="card-img-top" src="https://image.flaticon.com/icons/svg/1554/1554401.svg" alt="Card image">
+<img class="card-img-top" src="images/codm.jpg" alt="Card image">
 
 <div class="card-body">
 
@@ -204,7 +204,7 @@ i {
 
 <div class="card" >
 
-<img class="card-img-top" src="https://cdn0.iconfinder.com/data/icons/credit-card-debit-card-payment-PNG/80/Mastercard-Straight.png" alt="Card image">
+<img class="card-img-top" src="images/cardp.jpg" alt="Card image">
 
 <div class="card-body">
 

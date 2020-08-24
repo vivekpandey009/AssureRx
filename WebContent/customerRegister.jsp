@@ -227,7 +227,7 @@ i {
 	<div class="container register">
                 <div class="row">
                     <div class="col-md-3 register-left">
-                        <img src="https://scontent.fdel28-1.fna.fbcdn.net/v/t1.0-9/116809852_301019137788925_5924721173777389708_n.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=Glo8Bw-g2ZkAX-BxaY_&_nc_ht=scontent.fdel28-1.fna&oh=c0556386efbd3f8290f9d8d5a14f785c&oe=5F548DD3" style="width: 180px; height: 120px"  alt=""/>
+                        <img src="images/assurerx.jpg" style="width: 180px; height: 120px"  alt=""/>
                         <h3>Welcome</h3><br><br>
                         
                          <a href="loginchoice.jsp" class="btn btn-outline-success">Login</a><br/>

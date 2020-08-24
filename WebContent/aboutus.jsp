@@ -147,7 +147,7 @@ i {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://www.logolynx.com/images/logolynx/s_97/97e88682fa82ed11f3bf96dcf8479635.png" style="width:100%">
+      <img src="images/profilepic.png" style="width:100%">
       <div class="container">
         <h2>Shashank Ojha</h2>
         <p class="title">CEO & Co-founder</p>
@@ -160,7 +160,7 @@ i {
 
   <div class="column">
     <div class="card">
-       <img src="https://www.logolynx.com/images/logolynx/s_97/97e88682fa82ed11f3bf96dcf8479635.png" style="width:100%">
+       <img src="images/profilepic.png" style="width:100%">
       <div class="container">
         <h2>Piyush Rai</h2>
         <p class="title">Art Director & Co-Founder</p>
@@ -173,7 +173,7 @@ i {
  
   <div class="column">
     <div class="card">
-      <img src="https://www.logolynx.com/images/logolynx/s_97/97e88682fa82ed11f3bf96dcf8479635.png" style="width:100%">
+      <img src="images/profilepic.png" style="width:100%">
       <div class="container">
         <h2>Kunal Arya</h2>
         <p class="title">Co-Founder</p>
@@ -186,7 +186,7 @@ i {
  
   <div class="column">
     <div class="card">
-       <img src="https://www.logolynx.com/images/logolynx/s_97/97e88682fa82ed11f3bf96dcf8479635.png" style="width:100%">
+       <img src="images/profilepic.png" style="width:100%">
       <div class="container">
         <h2>Harshul Sharma</h2>
         <p class="title">CFO</p>
@@ -199,7 +199,7 @@ i {
  
   <div class="column">
     <div class="card">
-      <img src="https://www.logolynx.com/images/logolynx/s_97/97e88682fa82ed11f3bf96dcf8479635.png" style="width:100%">
+      <img src="images/profilepic.png" style="width:100%">
       <div class="container">
         <h2>Vivek Pandey</h2>
         <p class="title">CTO & Co-Founder</p>
@@ -235,7 +235,7 @@ i {
 
 <div class="col-lg-6 col-md-6 col-12">
 
-<img src="https://cdn.techinasia.com/wp-content/uploads/2015/03/pharmacy-720x499.jpg" class="img-fluid">
+<img src="images/whorv.jpg" class="img-fluid">
 
 </div>
 
@@ -273,7 +273,7 @@ i {
 
 <div class="card" >
 
-<img class="card-img-top" src="https://images.unsplash.com/photo-1580674285054-bed31e145f59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Card image">
+<img class="card-img-top" src="images/cod.jpg" alt="Card image">
 
 <div class="card-body">
 
@@ -295,7 +295,7 @@ i {
 
 <div class="card" >
 
-<img class="card-img-top" src="https://images.unsplash.com/photo-1494959764136-6be9eb3c261e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="Card image">
+<img class="card-img-top" src="images/service.jpg" alt="Card image">
 
 <div class="card-body">
 
@@ -317,7 +317,7 @@ i {
 
 <div class="card">
 
-<img class="card-img-top" src="https://images.unsplash.com/photo-1449247666642-264389f5f5b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Card image">
+<img class="card-img-top" src="images/purchase.jpg" alt="Card image">
 
 <div class="card-body">
 

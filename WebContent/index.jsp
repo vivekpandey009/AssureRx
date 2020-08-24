@@ -168,7 +168,7 @@ i {
 
 	 <div class="carousel-item active">
 
-      <img src="https://wallpaperplay.com/walls/full/4/6/4/13970.jpg" alt="Homopathic" width="1100" height="500">
+      <img src="images/Index1.jpg" alt="Homeopathic" width="1100" height="500">
 
       <div class="carousel-caption">
 
@@ -183,7 +183,7 @@ i {
 
     <div class="carousel-item">
 
-      <img src="https://wallpaperplay.com/walls/full/b/4/e/13988.jpg" alt="Homopathic" width="1100" height="500">
+      <img src="images/index2.jpg" alt="Homeopathic" width="1100" height="500">
 
       <div class="carousel-caption">
 
@@ -197,7 +197,7 @@ i {
 
     <div class="carousel-item">
 
-      <img src="https://chopracom.s3.us-west-1.amazonaws.com/field/image/ayurvedic.jpg" alt="Ayurvedic" width="1100" height="500">
+      <img src="images/index3.jpg" alt="Ayurvedic" width="1100" height="500">
 
       <div class="carousel-caption">
 
@@ -211,7 +211,7 @@ i {
 
     <div class="carousel-item">
 
-      <img src="https://cdn.pixabay.com/photo/2015/11/30/19/08/drug-1070943_960_720.jpg" alt="Drug" width="1100" height="500">
+      <img src="images/index4.jpg" alt="Drug" width="1100" height="500">
 
       <div class="carousel-caption">
 
@@ -259,7 +259,7 @@ i {
 
 <div class="col-lg-6 col-md-6 col-12">
 
-<img src="https://cdn.techinasia.com/wp-content/uploads/2015/03/pharmacy-720x499.jpg" class="img-fluid">
+<img src="images/whorv.jpg" class="img-fluid">
 
 </div>
 
@@ -297,7 +297,7 @@ i {
 
 <div class="card" >
 
-<img class="card-img-top" src="https://images.unsplash.com/photo-1580674285054-bed31e145f59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Card image">
+<img class="card-img-top" src="images/cod.jpg" alt="Card image">
 
 <div class="card-body">
 
@@ -319,7 +319,7 @@ i {
 
 <div class="card" >
 
-<img class="card-img-top" src="https://images.unsplash.com/photo-1494959764136-6be9eb3c261e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="Card image">
+<img class="card-img-top" src="images/service.jpg" alt="Card image">
 
 <div class="card-body">
 
@@ -341,7 +341,7 @@ i {
 
 <div class="card">
 
-<img class="card-img-top" src="https://images.unsplash.com/photo-1449247666642-264389f5f5b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Card image">
+<img class="card-img-top" src="images/purchase.jpg" alt="Card image">
 
 <div class="card-body">
 

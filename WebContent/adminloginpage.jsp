@@ -208,7 +208,7 @@ i {
 	<div class="container-fluid">
 		<div class="row main-content bg-danger text-center">
 			<div class="col-md-4 text-center company__info">
-				<span class="company__logo"><img src="https://scontent.fdel28-1.fna.fbcdn.net/v/t1.0-9/116809852_301019137788925_5924721173777389708_n.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=Glo8Bw-g2ZkAX-BxaY_&_nc_ht=scontent.fdel28-1.fna&oh=c0556386efbd3f8290f9d8d5a14f785c&oe=5F548DD3" style="width: 180px; height: 120px"></span>
+				<span class="company__logo"><img src="images/assurerx.jpg" style="width: 180px; height: 120px"></span>
 				<h4 class="company_title">Assure Rx</h4>
 			</div>
 			<div class="col-md-8 col-xs-12 col-sm-12 login_form ">
